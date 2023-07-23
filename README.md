@@ -1,6 +1,6 @@
 ## Sobre
 
-O Financial Control é um projeto Front-end, desenvolvido utilizando as tecnologias:
+O Financial Control é um projeto Back-end, desenvolvido utilizando as tecnologias:
 - Python + Django
 - PostgreSQL
 
